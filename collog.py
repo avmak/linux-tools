@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-#The script creates archive (*tar.gz) in the directory DIR_BASE, and places logs in the directory DIR_BASE_ES_LOG.
+# The script creates archive (*tar.gz) in the directory DIR_BASE, and places logs in the directory DIR_BASE_ES_LOG.
 
 import os
 import subprocess
